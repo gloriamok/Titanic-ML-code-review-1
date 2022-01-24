@@ -1,4 +1,4 @@
-# Titanic-ML-code-review-1
+# titanic-ml-code-review-1
 <p>
 <h2>2021/11/17 Machine Learning Study</h2>
 Machine Learning Code Review<br>
